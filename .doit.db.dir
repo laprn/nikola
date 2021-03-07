@@ -26,7 +26,7 @@
 'render_taxonomies:output\\rss.xml', (21504, 506)
 'render_taxonomies', (22016, 56)
 'copy_assets:output\\assets\\xml\\atom.xsl', (22528, 473)
-'sitemap:output\\sitemap.xml', (23040, 1227)
+'sitemap:output\\sitemap.xml', (23040, 1231)
 'robots_file:output\\robots.txt', (24576, 136)
 'render_posts:cache\\posts\\hello-nikola.html', (25088, 365)
 'render_galleries:output\\galleries\\rss.xml', (79872, 6457)
