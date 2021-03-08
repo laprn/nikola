@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://example.com/archive.html</loc>
-  <lastmod>2021-03-07T11:49:00Z</lastmod>
+  <lastmod>2021-03-08T14:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/categories/</loc>
@@ -36,5 +36,9 @@
  <url>
   <loc>https://example.com/posts/hello-nikola/</loc>
   <lastmod>2021-03-07T02:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/posts/jorge-luis-borges-the-last-interview/</loc>
+  <lastmod>2021-03-08T14:27:00Z</lastmod>
  </url>
 </urlset>
