@@ -15,11 +15,15 @@
  </url>
  <url>
   <loc>https://example.com/archive.html</loc>
-  <lastmod>2021-03-08T14:27:00Z</lastmod>
+  <lastmod>2021-04-27T14:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/categories/</loc>
-  <lastmod>2021-03-07T02:42:00Z</lastmod>
+  <lastmod>2021-04-27T14:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/categories/philosophy/</loc>
+  <lastmod>2021-04-27T14:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/galleries/</loc>
@@ -40,5 +44,9 @@
  <url>
   <loc>https://example.com/posts/jorge-luis-borges-the-last-interview/</loc>
   <lastmod>2021-03-08T14:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/posts/the-fold-110/</loc>
+  <lastmod>2021-04-27T14:06:00Z</lastmod>
  </url>
 </urlset>
