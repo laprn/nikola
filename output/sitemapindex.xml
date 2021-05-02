@@ -6,19 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://example.com/categories/cat_physics.xml</loc>
+  <lastmod>2021-05-02T14:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://example.com/categories/philosophy.xml</loc>
-  <lastmod>2021-04-27T14:06:00Z</lastmod>
+  <lastmod>2021-04-27T14:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://example.com/categories/physics.xml</loc>
+  <lastmod>2021-05-02T14:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2021-03-07T11:49:00Z</lastmod>
+  <lastmod>2021-05-02T14:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/rss.xml</loc>
-  <lastmod>2021-04-27T14:06:00Z</lastmod>
+  <lastmod>2021-05-02T14:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2021-04-27T14:06:00Z</lastmod>
+  <lastmod>2021-05-02T14:30:00Z</lastmod>
  </sitemap>
 </sitemapindex>

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>little log</title><link>https://example.com/</link><description>Clipping lines from movies.</description><atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>ja</language><copyright>Contents © 2021 &lt;a href="mailto:y.mrt@tuta.io"&gt;qrn&lt;/a&gt; </copyright><lastBuildDate>Tue, 27 Apr 2021 14:19:19 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>襞:物質の折り目</title><link>https://example.com/posts/the-fold-110/</link><dc:creator>qrn</dc:creator><description>&lt;blockquote&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>little log</title><link>https://example.com/</link><description>Clipping lines from movies.</description><atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>ja</language><copyright>Contents © 2021 &lt;a href="mailto:y.mrt@tuta.io"&gt;qrn&lt;/a&gt; </copyright><lastBuildDate>Sun, 02 May 2021 14:33:17 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>コヒーレンス(可干渉)とは</title><link>https://example.com/posts/coherent/</link><dc:creator>qrn</dc:creator><description>&lt;div&gt;&lt;h2&gt;コヒーレンス(可干渉)とは&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;干渉の度合い(干渉しやすさ)を表します。光には干渉しやすいものとそうでないものがあります。光源から出る光波の位相が一定でない場合、例えば、電球から出る光は初期位相が時間とともにランダムに変化するのでコヒーレンスは低くなります。逆にレーザー光源から出る光は初期位相がほぼ一定なのでコヒーレンスは高くなります。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;参考リンク&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;(コヒーレンス：光学総合サイト：サイバネット)[https://www.cybernet.co.jp/optical/course/word/k23.html]&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><category>physics</category><guid>https://example.com/posts/coherent/</guid><pubDate>Sun, 02 May 2021 11:37:01 GMT</pubDate></item><item><title>襞:物質の折り目</title><link>https://example.com/posts/the-fold-110/</link><dc:creator>qrn</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;&amp;lt;多&amp;gt;とは、単にたくさんの部分をもつものではなく、たくさんの仕方で折り畳まれるもののことである。
 まさにおのおのの階層に、一つの迷宮が対応する。&lt;/p&gt;
 &lt;p&gt;確かに二つの階層はつながっている(だからこそ連続的なものが魂の中に上昇してくる)。
